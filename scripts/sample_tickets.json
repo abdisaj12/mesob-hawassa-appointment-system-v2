@@ -1,0 +1,18 @@
+[
+  {
+    "reference": "ABC123",
+    "queue_number": 7,
+    "slot_window": "AM",
+    "appointment_date": "2026-08-20",
+    "service_name": "ID Renewal",
+    "full_name": "Abebe Bekele"
+  },
+  {
+    "reference": "XYZ-789",
+    "queue_number": 8,
+    "slot_window": "PM",
+    "appointment_date": "2026-08-21",
+    "service_name": "Passport",
+    "full_name": "Selam Alem"
+  }
+]
